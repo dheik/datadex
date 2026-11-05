@@ -1,0 +1,87 @@
+{
+ "name": "eevee",
+ "id": 133,
+ "evolution_chain": {
+  "url": "/api/v2/evolution-chain/67/"
+ },
+ "flavor_text_entries": [
+  {
+   "flavor_text": "It has the ability to alter the composition of its\nbody to suit its surrounding environment.",
+   "language": {
+    "name": "en",
+    "url": "/api/v2/language/9/"
+   },
+   "version": {
+    "name": "sword",
+    "url": "/api/v2/version/33/"
+   }
+  },
+  {
+   "flavor_text": "Su irregular estructura genética alberga el secreto\nde la capacidad que posee este Pokémon tan\nespecial para adoptar evoluciones muy variadas.",
+   "language": {
+    "name": "es",
+    "url": "/api/v2/language/7/"
+   },
+   "version": {
+    "name": "shield",
+    "url": "/api/v2/version/34/"
+   }
+  },
+  {
+   "flavor_text": "Thanks to its unstable genetic makeup, this\nspecial Pokémon conceals many different\npossible evolutions.",
+   "language": {
+    "name": "en",
+    "url": "/api/v2/language/9/"
+   },
+   "version": {
+    "name": "shield",
+    "url": "/api/v2/version/34/"
+   }
+  },
+  {
+   "flavor_text": "Harbors the potential to evolve into manifold forms.\nWithin Eevee lies the key to the mysteries of Pokémon\nevolution—I'm certain of it.",
+   "language": {
+    "name": "en",
+    "url": "/api/v2/language/9/"
+   },
+   "version": {
+    "name": "legends-arceus",
+    "url": "/api/v2/version/39/"
+   }
+  }
+ ],
+ "genera": [
+  {
+   "genus": "Pokémon Evolución",
+   "language": {
+    "name": "es",
+    "url": "/api/v2/language/7/"
+   }
+  },
+  {
+   "genus": "Evolution Pokémon",
+   "language": {
+    "name": "en",
+    "url": "/api/v2/language/9/"
+   }
+  }
+ ],
+ "habitat": {
+  "name": "urban",
+  "url": "/api/v2/pokemon-habitat/8/"
+ },
+ "color": {
+  "name": "brown",
+  "url": "/api/v2/pokemon-color/3/"
+ },
+ "egg_groups": [
+  {
+   "name": "ground",
+   "url": "/api/v2/egg-group/5/"
+  }
+ ],
+ "base_happiness": 70,
+ "capture_rate": 45,
+ "is_legendary": false,
+ "is_mythical": false
+}

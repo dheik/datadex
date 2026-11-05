@@ -1,0 +1,87 @@
+{
+ "name": "gengar",
+ "id": 94,
+ "evolution_chain": {
+  "url": "/api/v2/evolution-chain/40/"
+ },
+ "flavor_text_entries": [
+  {
+   "flavor_text": "On the night of a full moon, if shadows move on\ntheir own and laugh, it must be Gengar’s doing.",
+   "language": {
+    "name": "en",
+    "url": "/api/v2/language/9/"
+   },
+   "version": {
+    "name": "sword",
+    "url": "/api/v2/version/33/"
+   }
+  },
+  {
+   "flavor_text": "Dicen que sale de la oscuridad para robarles el\nalma a los que se pierden por las montañas.",
+   "language": {
+    "name": "es",
+    "url": "/api/v2/language/7/"
+   },
+   "version": {
+    "name": "shield",
+    "url": "/api/v2/version/34/"
+   }
+  },
+  {
+   "flavor_text": "It is said to emerge from darkness to steal the\nlives of those who become lost in mountains.",
+   "language": {
+    "name": "en",
+    "url": "/api/v2/language/9/"
+   },
+   "version": {
+    "name": "shield",
+    "url": "/api/v2/version/34/"
+   }
+  },
+  {
+   "flavor_text": "Possesses potential victims' shadows in an effort to steal away\nthe victims' lives. If your shadow begins to laugh, you must take\nhold of a protective charm posthaste!",
+   "language": {
+    "name": "en",
+    "url": "/api/v2/language/9/"
+   },
+   "version": {
+    "name": "legends-arceus",
+    "url": "/api/v2/version/39/"
+   }
+  }
+ ],
+ "genera": [
+  {
+   "genus": "Pokémon Sombra",
+   "language": {
+    "name": "es",
+    "url": "/api/v2/language/7/"
+   }
+  },
+  {
+   "genus": "Shadow Pokémon",
+   "language": {
+    "name": "en",
+    "url": "/api/v2/language/9/"
+   }
+  }
+ ],
+ "habitat": {
+  "name": "cave",
+  "url": "/api/v2/pokemon-habitat/1/"
+ },
+ "color": {
+  "name": "purple",
+  "url": "/api/v2/pokemon-color/7/"
+ },
+ "egg_groups": [
+  {
+   "name": "indeterminate",
+   "url": "/api/v2/egg-group/11/"
+  }
+ ],
+ "base_happiness": 70,
+ "capture_rate": 45,
+ "is_legendary": false,
+ "is_mythical": false
+}
